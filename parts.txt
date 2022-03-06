@@ -1,0 +1,63 @@
+C1 1uf
+C2 1uf
+FG18X7R1E105KRT00
+https://www.mouser.ca/ProductDetail/810-FG18X7R1E105KRT0
+
+J1 Terminal block relay VI0321550000G
+J2 
+https://www.mouser.ca/ProductDetail/CUI-Devices/TB002-500-03BE?qs=sGAEpiMZZMvPvGwLNS671%2FDanv8Jav06dUJp0GSYcvzqiV7Oot2h%252BQ%3D%3D
+
+J3 Power
+PJ-102AH 
+https://www.mouser.ca/ProductDetail/CUI-Devices/PJ-102AH?qs=WyjlAZoYn50Yq4CrVLCXLw%3D%3D
+
+R1 1k
+R8 1k
+
+R3 10k
+R4 10k
+R5 10k
+R6 10k
+
+R2 150
+R9 150
+R7 150
+
+SW1 Switch to reset
+B3F-1000 or B3F-1002
+https://www.mouser.ca/ProductDetail/Omron-Electronics/B3F-1000?qs=sGAEpiMZZMsqIr59i2oRcl3xsl2Wjx5sQhyySMq8ivw%3D
+
+SW2 Switch to program
+EG1218 
+https://www.mouser.ca/ProductDetail/E-Switch/EG1218?qs=sGAEpiMZZMtHXLepoqNyVZDOWY7elTCOE4MJ3sXRkSs%3D
+
+U1 ESP8266 ESP-12F
+https://www.ebay.ca/itm/ESP-12F-ESP8266-Remote-Serial-WIFI-Transceiver-Wireless-Adapter-Plate-Module/264051129457?hash=item3d7aac7c71:m:mGS9Q-uKNCYl793gSkyvhvw
+
+U2 Power regulator 3.3V
+MCP1702-3302E/TO 
+https://www.mouser.ca/ProductDetail/Microchip-Technology/MCP1702-3302E-TO?qs=%2Fha2pyFadujT8UC6Ac%252BWEGepBHxuPKxrQcikZcBDtv3cjG6FV9QuYw%3D%3D
+Pas en stock, remplacé par AP7384-33V-A
+https://www.mouser.ca/ProductDetail/Diodes-Incorporated/AP7384-33V-A?qs=y6ZabgHbY%252ByLqPdSEK9LQQ%3D%3D
+
+J4 FTDI Cable socket
+M20-9770346
+https://www.mouser.ca/ProductDetail/Harwin/M20-9770346?qs=%2Fha2pyFaduhF0xjSTgJg%252BhHtAe85Ymdf6eFgt%252BK1tYM8z%252BtUdOoNqw%3D%3D
+
+D1 1N4007
+D2
+https://www.mouser.ca/ProductDetail/583-1N4007-B
+
+D2 LED LiteOn LTL2R3KGD-EM
+D3 
+D4
+https://www.mouser.ca/ProductDetail/Lite-On/LTL2R3KGD-EM?qs=sGAEpiMZZMtmwHDZQCdlqY3QuPVQdrfivxVgVo2hFbg%3D
+
+K1 Relay 1 Form C (SPDT-NO, NC) Coil voltage 3V, Switching max 250 VAC, 125 VDC, 10A
+K2 Relay 1 Form C (SPDT-NO, NC) Coil voltage 3V, Switching max 250 VAC, 125 VDC, 10A
+G5LE-14 DC3 https://www.mouser.ca/ProductDetail/Omron-Electronics/G5LE-14-DC3?qs=sGAEpiMZZMtGt%252Bn33CgIP2ptscmC2Psxm2rQm6TanhQ%3D
+
+Q1 2N3904
+Q2
+https://www.mouser.ca/ProductDetail/833-2N3904-AP
+

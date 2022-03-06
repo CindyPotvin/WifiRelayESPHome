@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name ChickmaticPhase3-Simplify)(type KiCad)(uri ${KIPRJMOD}/ChickmaticPhase3-Simplify.pretty)(options "")(descr "")(disabled))
+  (lib (name TemperatureLogger_ESP-12F)(type KiCad)(uri ${KIPRJMOD}/TemperatureLogger_ESP-12F.pretty)(options "")(descr ""))
+)

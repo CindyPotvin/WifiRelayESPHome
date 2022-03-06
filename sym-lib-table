@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name WifiRelayEspHome-rescue)(type Legacy)(uri ${KIPRJMOD}/WifiRelayEspHome-rescue.lib)(options "")(descr ""))
+)
