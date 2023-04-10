@@ -37,8 +37,6 @@ https://www.ebay.ca/itm/ESP-12F-ESP8266-Remote-Serial-WIFI-Transceiver-Wireless-
 U2 Power regulator 3.3V
 MCP1702-3302E/TO 
 https://www.mouser.ca/ProductDetail/Microchip-Technology/MCP1702-3302E-TO?qs=%2Fha2pyFadujT8UC6Ac%252BWEGepBHxuPKxrQcikZcBDtv3cjG6FV9QuYw%3D%3D
-Pas en stock, remplacé par AP7384-33V-A
-https://www.mouser.ca/ProductDetail/Diodes-Incorporated/AP7384-33V-A?qs=y6ZabgHbY%252ByLqPdSEK9LQQ%3D%3D
 
 J4 FTDI Cable socket
 M20-9770346
@@ -58,6 +56,6 @@ K2 Relay 1 Form C (SPDT-NO, NC) Coil voltage 3V, Switching max 250 VAC, 125 VDC,
 G5LE-14 DC3 https://www.mouser.ca/ProductDetail/Omron-Electronics/G5LE-14-DC3?qs=sGAEpiMZZMtGt%252Bn33CgIP2ptscmC2Psxm2rQm6TanhQ%3D
 
 Q1 2N3904
-Q2
+Q2 
 https://www.mouser.ca/ProductDetail/833-2N3904-AP
 

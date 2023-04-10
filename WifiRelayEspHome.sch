@@ -217,7 +217,6 @@ Text Label 3650 1200 1    60   ~ 0
 Wire Wire Line
 	3650 1225 3650 975 
 NoConn ~ 2550 3575
-NoConn ~ 3750 3175
 NoConn ~ 2550 2875
 NoConn ~ 2550 3075
 NoConn ~ 2550 3175
@@ -390,7 +389,6 @@ F 3 "" H 4775 3325 50  0001 C CNN
 $EndComp
 Text Label 4550 3375 0    50   ~ 0
 GND
-NoConn ~ 3750 3275
 $Comp
 L SamacSys_Parts:G5LE-14_DC3 K1
 U 1 1 621B4274
@@ -527,19 +525,7 @@ Wire Wire Line
 Wire Wire Line
 	11025 1725 10475 1725
 NoConn ~ 3750 2875
-$Comp
-L RF_Module:ESP-12F U1
-U 1 1 5CFE3763
-P 3150 3075
-F 0 "U1" H 3150 4056 50  0000 C CNN
-F 1 "ESP-12F" H 3150 3965 50  0000 C CNN
-F 2 "RF_Module:ESP-12E" H 3150 3075 50  0001 C CNN
-F 3 "http://wiki.ai-thinker.com/_media/esp8266/esp8266_series_modules_user_manual_v1.1.pdf" H 2800 3175 50  0001 C CNN
-	1    3150 3075
-	1    0    0    -1  
-$EndComp
 NoConn ~ 3750 2975
-NoConn ~ 3750 3075
 $Comp
 L WifiRelayEspHome-rescue:R-ChickmaticPhase3-rescue-TemperatureLogger_ESP-12F-rescue R2
 U 1 1 6229152B
@@ -712,8 +698,23 @@ Wire Wire Line
 	9650 2500 9650 1725
 Wire Wire Line
 	9650 1725 10275 1725
-Text Label 2550 3275 2    50   ~ 0
+Text Label 3750 3175 0    50   ~ 0
 RELAY2
-Text Label 2550 3375 2    50   ~ 0
+Text Label 3750 3075 0    50   ~ 0
 RELAY1
+$Comp
+L RF_Module:ESP-12F U1
+U 1 1 5CFE3763
+P 3150 3075
+F 0 "U1" H 3150 4056 50  0000 C CNN
+F 1 "ESP-12F" H 3150 3965 50  0000 C CNN
+F 2 "RF_Module:ESP-12E" H 3150 3075 50  0001 C CNN
+F 3 "http://wiki.ai-thinker.com/_media/esp8266/esp8266_series_modules_user_manual_v1.1.pdf" H 2800 3175 50  0001 C CNN
+	1    3150 3075
+	1    0    0    -1  
+$EndComp
+NoConn ~ 2550 3275
+NoConn ~ 2550 3375
+NoConn ~ 3750 3275
+NoConn ~ 11775 2475
 $EndSCHEMATC
